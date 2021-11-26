@@ -76,7 +76,7 @@ def main() :
         ct = 'city_' + city_
         input_df[ct] = 1
 
-        scaler = load(r'scaler_filename.joblib')
+        scaler = load('scaler_filename.joblib')
         transformed_data = scaler.transform(input_df)
         # input_df = np.zeros((1, 60))
         result = model.predict(np.asarray(transformed_data).astype(np.float32))
