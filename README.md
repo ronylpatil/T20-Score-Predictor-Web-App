@@ -9,9 +9,9 @@
 
 <b>Description : </b> Built an <b>Complex Neural Network Architecture using keras Functional API</b> to predict __Men's T20 International Matches Score__. I created a __Web App__ using <b>Streamlit</b> which simply predict Men's T20 International Matches Score and, finally deployed the Web-app on __Heroku__. Internally, our model is built using <b>Complex Neural Network Architecture</b> to predict mactches score. Initially I collected ready-made data from internet, Then do feature engineering, feature extraction and preprocess it using pandas library. At the end built a __Deep Learning Model__ to predict score and got a __Mean Absolute Error of 1.608.__
 
-<b>Heroku App : https://t20-score-predictor-webapp.herokuapp.com/</b><br>
-<b>Dataset Source : https://www.kaggle.com/veeralakrishna/cricsheet-a-retrosheet-for-cricket</b>
+<b>Heroku App : https://t20-matches-score-predictor.herokuapp.com/ </b><br>
+<b>Dataset Source : https://www.kaggle.com/veeralakrishna/cricsheet-a-retrosheet-for-cricket </b>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by ronil</a>
+  <a href="https://www.linkedin.com/in/ronylpatil/"><b>Made with ❤ by ronil</a>
 </p>
