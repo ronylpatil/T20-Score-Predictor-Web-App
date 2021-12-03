@@ -12,6 +12,16 @@
 <b>Heroku App : https://t20-matches-score-predictor.herokuapp.com/ </b><br>
 <b>Dataset Source : https://www.kaggle.com/veeralakrishna/cricsheet-a-retrosheet-for-cricket </b>
 
+<b>Sample Dataset : </b>
+<p align="center">
+  <img class="center" src ="/sample/t20a.png" alt="Drawing" style="width: 600px; height: 700px">
+</p>
+
+<b>Model Performace : </b>Training and Validation Loss.
+<p align="center">
+  <img class="center" src ="/sample/t20_Fmodel.png" alt="Drawing" style="width: 500px; height: 400px">
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ronylpatil/"><b>Made with ❤ by ronil</a>
 </p>
